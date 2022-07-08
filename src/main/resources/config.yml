@@ -1,0 +1,7 @@
+# Enable primary plugin function?
+# If you are confused, this setting if set to true makes it so that when friendly fire happens (within mc teams)
+#The person which attacked will recieve the damage instead of the person they attacked.
+enable_plugin: true
+
+# Permission which overrides protection:
+override_permission: "btelnyy.friendlyfirereverse.override"
